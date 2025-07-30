@@ -1,8 +1,8 @@
 body{
     font-family: Arial, sans-serif;
     font-size: 12pt;
-    background-color:rgb(165, 226, 247);
-    color: rgb(21, 0, 255);
+    background-color: rgb(3, 3, 65);
+    color: rgb(255, 255, 255);
 }
 
 h1{
@@ -12,5 +12,5 @@ h1{
 }
 
 h2{
-    color: rgb(181, 88, 0);
+    color: pink
 }
