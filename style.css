@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    background-color:rgb(165, 226, 247);
+    color: rgb(21, 0, 255);
+}
+
+h1{
+    color: rgb(125, 222, 151);
+    font-size: 24pt;
+    font-family: Georgia, serif;
+}
+
+h2{
+    color: rgb(181, 88, 0);
+}
